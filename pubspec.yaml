@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cached_network_image:
+  flutter_cache_manager:
     git:
       url: https://github.com/vazad28/flutter_cache_manager.git
       ref: master
